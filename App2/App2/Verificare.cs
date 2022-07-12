@@ -12,7 +12,7 @@ namespace App2
 {
     public partial class Verificare : Form
     {
-        bool tick = false; //intervalul timer-ului e setat pe un minut initial
+        bool tick = false; //intervalul timer-ului e setat pe un minut initial//
         string code;
         string to;
         Form2 f2 = new Form2();
