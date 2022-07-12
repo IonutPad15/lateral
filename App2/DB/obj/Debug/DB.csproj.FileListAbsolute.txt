@@ -1,0 +1,6 @@
+C:\Ionut\cc\App2\DB\bin\Debug\DB.dll
+C:\Ionut\cc\App2\DB\bin\Debug\DB.pdb
+C:\Ionut\cc\App2\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Ionut\cc\App2\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Ionut\cc\App2\DB\obj\Debug\DB.dll
+C:\Ionut\cc\App2\DB\obj\Debug\DB.pdb
